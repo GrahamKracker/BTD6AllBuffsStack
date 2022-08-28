@@ -19,6 +19,7 @@
     <ItemGroup>
         <None Include=".github\workflows\build.yml" />
     </ItemGroup>
+    <!---
     <ItemGroup>
       <Reference Include="0Harmony">
         <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\BloonsTD6\MelonLoader\net35\0Harmony.dll</HintPath>
@@ -26,6 +27,6 @@
       <Reference Include="MelonLoader">
         <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\BloonsTD6\MelonLoader\net35\MelonLoader.dll</HintPath>
       </Reference>
-    </ItemGroup>
+    </ItemGroup> -->
     <Import Project="..\btd6.targets" />
 </Project>
