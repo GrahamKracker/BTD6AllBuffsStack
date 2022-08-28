@@ -2,7 +2,6 @@
     <PropertyGroup>
         <TargetFramework>net48</TargetFramework>
         <RootNamespace>BTD6AllBuffsStack</RootNamespace>
-        <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <AssemblyName>BTD6AllBuffsStack</AssemblyName>
         <LangVersion>latest</LangVersion>
